@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="ZYNQ_CORE_wrapper.bit" key="ZYNQ_CORE_wrapper_hw_platform_0-bitFile"/>
+	<item value="" key="ZYNQ_CORE_wrapper_hw_platform_0-bmmFile"/>
+	<item value="false" key="ZYNQ_CORE_wrapper_hw_platform_1-partial_bit"/>
+	<item value="Local" key="ZYNQ_CORE_wrapper_hw_platform_0-target"/>
+	<item value="ZYNQ_CORE_wrapper_hw_platform_0" key="programfpga.hwplatform"/>
+	<item value="Local" key="ZYNQ_CORE_wrapper_hw_platform_1-target"/>
+	<item value="Auto Detect" key="ZYNQ_CORE_wrapper_hw_platform_0-device"/>
+	<item value="Auto Detect" key="ZYNQ_CORE_wrapper_hw_platform_1-device"/>
+	<item value="ZYNQ_CORE_wrapper.bit" key="ZYNQ_CORE_wrapper_hw_platform_1-bitFile"/>
+	<item value="false" key="ZYNQ_CORE_wrapper_hw_platform_0-partial_bit"/>
+	<item value="" key="ZYNQ_CORE_wrapper_hw_platform_1-bmmFile"/>
+</section>

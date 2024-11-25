@@ -1,0 +1,8 @@
+22:33:29 **** Incremental Build of configuration Debug for project VDMA_TF_TEST ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+
+22:33:29 Build Finished (took 340ms)
+

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# 
+# Start of session at: Mon Dec 12 13:22:42 2022
+# Process ID: 21376
+# Current directory: E:/EBAZ4205/25_VDMA_HDMI_TEST_720P_TF_TEST/VDMA_HDMI_TEST/VDMA_HDMI_TEST.sdk/webtalk
+# Command line: wbtcv.exe -mode batch -source sdk_webtalk.tcl
+# Log file: E:/EBAZ4205/25_VDMA_HDMI_TEST_720P_TF_TEST/VDMA_HDMI_TEST/VDMA_HDMI_TEST.sdk/webtalk/webtalk.log
+# Journal file: E:/EBAZ4205/25_VDMA_HDMI_TEST_720P_TF_TEST/VDMA_HDMI_TEST/VDMA_HDMI_TEST.sdk/webtalk\webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="ZYNQ_CORE_wrapper_hw_platform_0" key="programflash.hwplatform"/>
+	<item value="false" key="ZYNQ_CORE_wrapper_hw_platform_0-verifyFlash"/>
+	<item value="Local" key="ZYNQ_CORE_wrapper_hw_platform_0-target"/>
+	<item value="Auto Detect" key="ZYNQ_CORE_wrapper_hw_platform_0-device"/>
+	<item value="qspi-x4-single" key="ZYNQ_CORE_wrapper_hw_platform_0-flashType"/>
+	<item value="" key="ZYNQ_CORE_wrapper_hw_platform_0-imgFile"/>
+	<item value="false" key="ZYNQ_CORE_wrapper_hw_platform_0-blankCheck"/>
+	<item value="" key="ZYNQ_CORE_wrapper_hw_platform_0-offSet"/>
+	<item value="" key="ZYNQ_CORE_wrapper_hw_platform_0-fsblFile"/>
+</section>
